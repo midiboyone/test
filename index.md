@@ -1,8 +1,7 @@
----
-title: test
----
+# Test site in Markdown
 
-# Welcome
-
-This is the homepage, written in **Markdown**.
-
+## It's friday again :music: :joy: 
+```
+It's Friday again!
+It's saturday, sunday, whaaat?!
+```
